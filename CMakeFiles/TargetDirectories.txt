@@ -1,0 +1,3 @@
+C:/Users/tugae/OneDrive/Документы/testing/CMakeFiles/MyQtApp.dir
+C:/Users/tugae/OneDrive/Документы/testing/CMakeFiles/ALL_BUILD.dir
+C:/Users/tugae/OneDrive/Документы/testing/CMakeFiles/ZERO_CHECK.dir
